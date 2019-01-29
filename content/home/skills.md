@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
+date = 2019-01-23T00:00:00
 
 # Activate this widget? true/false
 active = true

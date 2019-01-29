@@ -4,7 +4,7 @@
 widget = "posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
-date = 2016-04-20T00:00:00
+date = 2019-01-23T00:00:00
 
 title = "Recent Posts"
 subtitle = ""
