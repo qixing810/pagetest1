@@ -41,7 +41,7 @@ date_format = "January 2006"
   date_start = "2016-08-29"
   date_end = "2018-05-16"
   description = """
-    Responsibilities include:
+  Responsibilities include:
   
   * Analysing
   * Modelling
