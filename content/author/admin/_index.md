@@ -73,7 +73,7 @@ interests = [
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://qixing810.github.io"
+  link = "https://github.com/qixing810"
 
 #[[social]]
   #icon = "google-scholar"
