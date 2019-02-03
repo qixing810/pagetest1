@@ -35,4 +35,4 @@ summary = ""
 
 +++
 
-![](featured.jpg)
+![](content/post/first/featured.jpg)
