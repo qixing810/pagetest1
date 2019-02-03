@@ -35,4 +35,4 @@ summary = ""
 
 +++
 
-{{< figure src="featured.jpg" >}}
+![]({{< figure library="1" src="post0001.jpg">}})
