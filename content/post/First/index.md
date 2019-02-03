@@ -35,4 +35,4 @@ summary = ""
 
 +++
 
-![](content/post/first/featured.jpg)
+{{< figure src="featured.jpg" >}}
