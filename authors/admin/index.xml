@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcome</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Welcome</description>
+    <title>Admin on Welcome</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in Admin on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Qixing Li</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First Post</title>
-      <link>/post/first/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/post/first/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
