@@ -37,7 +37,7 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "90%"  
+  description = "95%"  
   
 
 

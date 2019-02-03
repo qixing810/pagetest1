@@ -28,9 +28,9 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data Modeling
+  * Machine Learning
+  * Deep Learning
   """
 
 [[experience]]
@@ -43,9 +43,11 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * SAS Programming
+  * Statistical Analysis
+  * Data Visualization
+  * Business Analysis
+
   """
 
 +++
