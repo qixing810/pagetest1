@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Qixing Li</copyright>
-    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Data Science</title>
       <link>/tags/data-science/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/data-science/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 23 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/machine-learning/</guid>
       <description></description>

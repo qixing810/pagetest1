@@ -1,16 +1,16 @@
 +++
-title = "First Post"
-subtitle = ""
+title = "Road Map"
+subtitle = "Data Science:"
 
-date = 2019-01-02T00:00:00
-lastmod = 2019-01-02T00:00:00
+date = 2019-01-01T00:00:00
+lastmod = 2010-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Qixing Li"]
+authors = ["Admin"]
 
-tags = ["Data Science"]
-summary = ""
+tags = ["Data Science","Machine Learning"]
+summary = "First post."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -33,6 +33,7 @@ summary = ""
   # Show image only in page previews?
   preview_only = true
 
+
 +++
 
-![]({{< figure library="1" src="post0001.jpg">}})
+{{< gallery >}}

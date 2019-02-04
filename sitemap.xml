@@ -4,24 +4,16 @@
     
     <url>
     
-      <loc>/post/first/</loc>
-      <lastmod>2019-01-02T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2010-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/post/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/first/</loc>
+      <lastmod>2010-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -110,7 +102,7 @@
     <url>
     
       <loc>/tags/data-science/</loc>
-      <lastmod>2019-01-02T00:00:00-05:00</lastmod>
+      <lastmod>2010-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,7 +120,7 @@
     <url>
     
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-08-23T00:00:00-04:00</lastmod>
+      <lastmod>2010-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,15 +154,6 @@
     
     <url>
     
-      <loc>/authors/qixing-li/</loc>
-      <lastmod>2019-01-02T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/r/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -181,7 +164,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-01-02T00:00:00-05:00</lastmod>
+      <lastmod>2010-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
