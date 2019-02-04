@@ -3,13 +3,13 @@ title = "Road Map"
 subtitle = "Data Science:"
 
 date = 2019-01-01T00:00:00
-lastmod = 2010-01-01T00:00:00
+lastmod = 2019-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Admin"]
 
-tags = ["Data Science","Machine Learning"]
+tags = ["Data Science", "Machine Learning"]
 summary = "First post."
 
 # Projects (optional).
@@ -31,7 +31,7 @@ summary = "First post."
   focal_point = ""
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 
 +++
