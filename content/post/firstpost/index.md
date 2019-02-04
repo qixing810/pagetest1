@@ -36,10 +36,11 @@ summary = "First post."
 
 +++
 
-{{< figure src="qixing810.github.io/content/post/firstpost/gallery/002.png" width="750" >}}
+{{< figure src="https://qixing810.github.io/content/post/firstpost/gallery/002.png" width="750" >}}
 
 {{< gallery album="gallery" >}}
 
-<img src="qixing810.github.io/content/post/firstpost/gallery/001.jpg" width="750">
+<img src="qixing810.github.io/content/post/firstpost/gallery/001.jpg" >
 
-
+123test
+{{< figure src="featured.jpg" >}}
