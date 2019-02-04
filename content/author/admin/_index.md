@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "City University of New York", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include data science, machine learning, deep learning and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""

@@ -31,10 +31,9 @@ summary = "First post."
   focal_point = ""
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 
 +++
 
-![](qixing810.github.io/content/post/first/gallery/001.jpg)
-![](qixing810.github.io/content/post/first/gallery/002.png)
+{{< gallery album="gallery" >}}
