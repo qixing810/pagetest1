@@ -36,4 +36,5 @@ summary = "First post."
 
 +++
 
-{{< gallery >}}
+![](qixing810.github.io/content/post/first/gallery/001.jpg)
+![](qixing810.github.io/content/post/first/gallery/002.png)

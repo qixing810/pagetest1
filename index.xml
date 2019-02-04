@@ -12,37 +12,12 @@
     
     <item>
       <title>Road Map</title>
-      <link>/post/first/</link>
+      <link>/post/firstpost/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/first/</guid>
-      <description>
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/first/gallery/001.jpg&#34; &gt;
-  &lt;img src=&#34;/post/first/gallery/001.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/first/gallery/002.png&#34; &gt;
-  &lt;img src=&#34;/post/first/gallery/002.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
+      <guid>/post/firstpost/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;qixing810.github.io/content/post/first/gallery/001.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;qixing810.github.io/content/post/first/gallery/002.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
