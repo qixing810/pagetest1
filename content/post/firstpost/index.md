@@ -1,6 +1,6 @@
 +++
 title = "Road Map"
-subtitle = "Data Science:"
+subtitle = "Data Science,Machine Learning "
 
 date = 2019-01-01T00:00:00
 lastmod = 2019-01-01T00:00:00
@@ -36,11 +36,10 @@ summary = "First post."
 
 +++
 
+{{< figure src="featured.jpg" >}}
+
+
 {{< figure src="https://qixing810.github.io/content/post/firstpost/gallery/002.png" width="750" >}}
 
-{{< gallery album="gallery" >}}
 
-<img src="qixing810.github.io/content/post/firstpost/gallery/001.jpg" >
 
-123test
-{{< figure src="featured.jpg" >}}
