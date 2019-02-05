@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "City University of New York - Data Science"
+title = "City University of New York - Data Science 2019"
 
 # Date this page was created.
 date = 2019-01-31T00:00:00

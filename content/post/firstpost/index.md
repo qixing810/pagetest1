@@ -7,7 +7,7 @@ lastmod = 2019-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Admin"]
+authors = ["Qixing Li"]
 
 tags = ["Data Science", "Machine Learning"]
 summary = "First post."

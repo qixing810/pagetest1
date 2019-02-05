@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/project/cuny-data-science/</loc>
+      <loc>/publication/cuny-ds/</loc>
       <lastmod>2019-01-31T00:00:00-05:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/publication/cuny-ds/</loc>
+      <loc>/project/cuny-data-science/</loc>
       <lastmod>2019-01-31T00:00:00-05:00</lastmod>
     </url>
     
@@ -68,24 +68,7 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/author/admin/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -101,7 +84,6 @@
     <url>
     
       <loc>/authors/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,15 +110,6 @@
     
       <loc>/tags/data-science/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
