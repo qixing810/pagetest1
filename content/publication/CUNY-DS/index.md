@@ -71,12 +71,13 @@ math = true
   focal_point = ""
 +++
 
-## [Project Page](https://qixing810.github.io/CUNYSPS-DataScience/) 
+* [Project Page](https://qixing810.github.io/CUNYSPS-DataScience/) 
 
-## [Github Code Page](https://github.com/qixing810/CUNYSPS-DataScience)
+* [Github Code Page](https://github.com/qixing810/CUNYSPS-DataScience)
 
 ![](https://qixing810.github.io/content/publication/CUNY-DS/featured.jpeg)
 
+<br>
 ## 2019 Spring
 * [DS606 Statistics and Probability for Data Analytics](https://qixing810.github.io/CUNYSPS-DataScience/DS606/DS606.html)
 
@@ -86,8 +87,8 @@ math = true
 
 
 <br>
-## About School
+### About School
 
-### [CUNYSPS](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms)
+* [CUNYSPS](https://sps.cuny.edu/academics/graduate/master-science-data-science-ms)
 
-### [Full Curriculum](http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607)
+* [Full Curriculum](http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607)
