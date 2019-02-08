@@ -89,6 +89,8 @@ interests = [
 
 +++
 
-My name is Qixing Li. I am a part-time graduate student at the City University of New York(CUNY), my major is Data Science. Before that, I obtained a MBA from St John's University in Business Analytics. I have strong interests in various tech stuff such as Data Science, Artificial Intelligence, Cryptocurrencies, and etc. I am always interested in learning more about state-of-the-art learning methods, and applying them to solve real world problems.
+My name is Qixing Li. I am a part-time graduate student at the City University of New York(CUNY), my major is Data Science. Before that, I obtained a MBA from St John's University in Business Analytics. I have strong interests in various tech stuff such as Data Science and Artificial Intelligence, I am always interested in learning more about state-of-the-art methods, and applying them to solve real world problems. 
+
+I am also into finiancial market and cryptocurrencies, I have some experience on day trade and forex. 
 
 Right now I am seeking a position where I can excel my skills and contribute my value as much as I can.
