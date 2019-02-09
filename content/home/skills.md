@@ -39,6 +39,11 @@ weight = 7
   name = "Statistics"
   description = "95%"  
   
+# [[feature]]
+#  icon = "analytics"
+ # icon_pack = "fas"
+  # name = "Finance"
+  # description = "95%"  
 
 
 +++
