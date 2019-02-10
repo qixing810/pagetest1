@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/post/firstpost/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/cuny-ds/</loc>
       <lastmod>2019-01-31T00:00:00-05:00</lastmod>
     </url>
@@ -20,15 +28,15 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <loc>/post/error1290/</loc>
+      <lastmod>2019-01-31T00:00:00-05:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/post/firstpost/</loc>
+      <loc>/post/</loc>
       <lastmod>2019-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -109,7 +117,7 @@
     <url>
     
       <loc>/tags/data-science/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,6 +126,15 @@
     <url>
     
       <loc>/tags/machine-learning/</loc>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/mysql/</loc>
       <lastmod>2019-01-31T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -153,7 +170,7 @@
     <url>
     
       <loc>/authors/qixing-li/</loc>
-      <lastmod>2019-01-31T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

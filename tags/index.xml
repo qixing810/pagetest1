@@ -24,7 +24,7 @@
     <item>
       <title>Data Science</title>
       <link>/tags/data-science/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/data-science/</guid>
       <description></description>
@@ -33,9 +33,18 @@
     <item>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>/tags/mysql/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/mysql/</guid>
       <description></description>
     </item>
     

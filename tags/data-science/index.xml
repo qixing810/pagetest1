@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Qixing Li</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,21 @@
     <item>
       <title>Road Map</title>
       <link>/post/firstpost/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/post/firstpost/</guid>
       <description>  </description>
+    </item>
+    
+    <item>
+      <title>Get Rid of MySQL Error 1290 in Mac</title>
+      <link>/post/error1290/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/post/error1290/</guid>
+      <description>Many people who use MySQL 8.0 might encounter the 1290 issue. I have done some research online and the method discussed in this post may help you to solve the problem.
+ copy the code below to terminal and input the password to open MySQL:
+/usr/local/mysql/bin/mysql -uroot -p   On the right top conner click the serach icon and type terminal, in case you don&amp;rsquo;t know how to open a terminal.</description>
     </item>
     
   </channel>

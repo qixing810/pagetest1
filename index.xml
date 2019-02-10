@@ -11,6 +11,34 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Road Map</title>
+      <link>/post/firstpost/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/post/firstpost/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://qixing810.github.io/content/post/firstpost/gallery/002.png&#34; width=&#34;750&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>City University of New York - Data Science</title>
       <link>/publication/cuny-ds/</link>
       <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
@@ -58,30 +86,63 @@
     </item>
     
     <item>
-      <title>Road Map</title>
-      <link>/post/firstpost/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <title>Get Rid of MySQL Error 1290 in Mac</title>
+      <link>/post/error1290/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/post/firstpost/</guid>
-      <description>
+      <guid>/post/error1290/</guid>
+      <description>&lt;p&gt;Many people who use MySQL 8.0 might encounter the 1290 issue. I have done some research online and the method discussed in this post may help you to solve the problem.&lt;/p&gt;
 
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;copy the code below to terminal and input the password to open MySQL:&lt;/p&gt;
 
-&lt;figure&gt;
+&lt;pre&gt;&lt;code&gt;/usr/local/mysql/bin/mysql -uroot -p
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;img src=&#34;featured.jpg&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;On the right top conner click the serach icon and type terminal, in case you don&amp;rsquo;t know how to open a terminal.&lt;/li&gt;
+&lt;li&gt;password is the one you login in MySQL, usually set up when you install it.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
+&lt;li&gt;&lt;p&gt;Copy the code below to check the directory:&lt;/p&gt;
 
-&lt;/figure&gt;
+&lt;pre&gt;&lt;code&gt;SELECT @@GLOBAL.secure_file_priv;
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 
+&lt;li&gt;&lt;p&gt;if there is a &lt;code&gt;null&lt;/code&gt; or &lt;code&gt;/&lt;/code&gt; , open the file below:&lt;/p&gt;
 
+&lt;pre&gt;&lt;code&gt;/Library/LaunchDaemons/com.oracle.oss.mysql.mysqld.plist
+&lt;/code&gt;&lt;/pre&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://qixing810.github.io/content/post/error1290/gallery/1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;open finder, then click command+shift+G together,paste the path.&lt;/li&gt;
+&lt;li&gt;use an editor to open this file: &amp;lsquo;com.oracle.oss.mysql.mysqld.plist&amp;rsquo;. don&amp;rsquo;t have one? (download one such as vim,sublime,etc)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;img src=&#34;https://qixing810.github.io/content/post/firstpost/gallery/002.png&#34; width=&#34;750&#34; /&gt;
+&lt;li&gt;&lt;p&gt;Copy the line below to the secotion ProgramArguments, &lt;strong&gt;Save and Restart Your Mac&lt;/strong&gt;.&lt;/p&gt;
 
+&lt;pre&gt;&lt;code&gt;&amp;lt;string&amp;gt;--secure-file-priv=/usr/local/mysql&amp;lt;/string&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&#34;https://qixing810.github.io/content/post/error1290/gallery/2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;go back to step 1 to check again, if you no longer see anything like &lt;code&gt;null&lt;/code&gt; or &lt;code&gt;/&lt;/code&gt;, then congratulation!
+&lt;img src=&#34;https://qixing810.github.io/content/post/error1290/gallery/3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;you need to upload your excel, csv or other files in this directory though:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/usr/local/mysql
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Enjoy no more error code 1290.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br&gt;
+Reference:&lt;br&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/40561248/trying-to-import-files-into-mysql-5-7-16-got-error-code-1290-secure-file&#34; target=&#34;_blank&#34;&gt;https://stackoverflow.com/questions/40561248/trying-to-import-files-into-mysql-5-7-16-got-error-code-1290-secure-file&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

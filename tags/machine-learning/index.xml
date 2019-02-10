@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Qixing Li</copyright>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Road Map</title>
+      <link>/post/firstpost/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/post/firstpost/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>City University of New York - Data Science 2019</title>
@@ -19,15 +28,6 @@
       
       <guid>/project/cuny-data-science/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Road Map</title>
-      <link>/post/firstpost/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/post/firstpost/</guid>
-      <description>  </description>
     </item>
     
     <item>

@@ -2,8 +2,8 @@
 title = "Road Map"
 subtitle = "Data Science,Machine Learning "
 
-date = 2019-01-01T00:00:00
-lastmod = 2019-01-01T00:00:00
+date = 2019-02-01T00:00:00
+lastmod = 2019-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
